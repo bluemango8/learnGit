@@ -2,4 +2,10 @@
 jiejue branch chongtu a12
 =======
 jiejue branch chongtu a1
+<<<<<<< HEAD
+>>>>>>> a1
+=======
+
+
+a1changes.
 >>>>>>> a1
